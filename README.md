@@ -1,2 +1,2 @@
-# Brain2Text
- 
+# Civilizing-AI
+Call for papers conference website
